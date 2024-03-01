@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mario\OneDrive - Universidad de Salamanca\UNI\A3\SEGUNDO CUATRI\IPO\OuterSpace\OuterSpace\outerspace\build\windows\CMakeFiles\ca020518babebf6bebea3c8ed02d96de\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mario\OneDrive - Universidad de Salamanca\UNI\A3\SEGUNDO CUATRI\IPO\OuterSpace\OuterSpace\outerspace\build\windows\CMakeFiles\d80956cfcb186983743e66cab59294c3\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mario\OneDrive - Universidad de Salamanca\UNI\A3\SEGUNDO CUATRI\IPO\OuterSpace\OuterSpace\outerspace\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\mario\OneDrive - Universidad de Salamanca\UNI\A3\SEGUNDO CUATRI\IPO\OuterSpace\OuterSpace\outerspace\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{312C3C69-1A44-3A13-946F-5F80B71D0FDB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

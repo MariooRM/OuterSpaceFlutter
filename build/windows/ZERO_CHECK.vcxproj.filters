@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mario\OneDrive - Universidad de Salamanca\UNI\A3\SEGUNDO CUATRI\IPO\OuterSpace\OuterSpace\outerspace\build\windows\CMakeFiles\71e66f8ae87e81acba25fb28a5d93764\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{312C3C69-1A44-3A13-946F-5F80B71D0FDB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

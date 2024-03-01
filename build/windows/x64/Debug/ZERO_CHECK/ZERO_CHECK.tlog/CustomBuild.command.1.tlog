@@ -1,0 +1,10 @@
+^C:\USERS\MARIO\ONEDRIVE - UNIVERSIDAD DE SALAMANCA\UNI\A3\SEGUNDO CUATRI\IPO\OUTERSPACE\OUTERSPACE\OUTERSPACE\BUILD\WINDOWS\CMAKEFILES\71E66F8AE87E81ACBA25FB28A5D93764\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/mario/OneDrive - Universidad de Salamanca/UNI/A3/SEGUNDO CUATRI/IPO/OuterSpace/OuterSpace/outerspace/windows" "-BC:/Users/mario/OneDrive - Universidad de Salamanca/UNI/A3/SEGUNDO CUATRI/IPO/OuterSpace/OuterSpace/outerspace/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/mario/OneDrive - Universidad de Salamanca/UNI/A3/SEGUNDO CUATRI/IPO/OuterSpace/OuterSpace/outerspace/build/windows/outerspace.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

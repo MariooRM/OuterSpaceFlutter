@@ -1,0 +1,15 @@
+com.example.outerspace.app-jetified-window-java-1.0.0-beta04-0 C:\Users\mario\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.outerspace.app-core-1.7.0-1 C:\Users\mario\.gradle\caches\transforms-3\74ce2690f7529852b8321388684fcbb6\transformed\core-1.7.0\res
+com.example.outerspace.app-lifecycle-runtime-2.3.1-2 C:\Users\mario\.gradle\caches\transforms-3\76da31ad033c53187dd7271282d0f7d2\transformed\lifecycle-runtime-2.3.1\res
+com.example.outerspace.app-jetified-annotation-experimental-1.1.0-3 C:\Users\mario\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.outerspace.app-jetified-window-1.0.0-beta04-4 C:\Users\mario\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.outerspace.app-jetified-exoplayer-core-2.18.7-5 C:\Users\mario\.gradle\caches\transforms-3\ef2321c8ef384bd7d821c1ecf44a36ab\transformed\jetified-exoplayer-core-2.18.7\res
+com.example.outerspace.app-debug-6 C:\Users\mario\OneDrive - Universidad de Salamanca\UNI\A3\SEGUNDO CUATRI\IPO\OuterSpace\OuterSpace\outerspace\android\app\src\debug\res
+com.example.outerspace.app-main-7 C:\Users\mario\OneDrive - Universidad de Salamanca\UNI\A3\SEGUNDO CUATRI\IPO\OuterSpace\OuterSpace\outerspace\android\app\src\main\res
+com.example.outerspace.app-pngs-8 C:\Users\mario\OneDrive - Universidad de Salamanca\UNI\A3\SEGUNDO CUATRI\IPO\OuterSpace\OuterSpace\outerspace\build\app\generated\res\pngs\debug
+com.example.outerspace.app-resValues-9 C:\Users\mario\OneDrive - Universidad de Salamanca\UNI\A3\SEGUNDO CUATRI\IPO\OuterSpace\OuterSpace\outerspace\build\app\generated\res\resValues\debug
+com.example.outerspace.app-rs-10 C:\Users\mario\OneDrive - Universidad de Salamanca\UNI\A3\SEGUNDO CUATRI\IPO\OuterSpace\OuterSpace\outerspace\build\app\generated\res\rs\debug
+com.example.outerspace.app-mergeDebugResources-11 C:\Users\mario\OneDrive - Universidad de Salamanca\UNI\A3\SEGUNDO CUATRI\IPO\OuterSpace\OuterSpace\outerspace\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.outerspace.app-mergeDebugResources-12 C:\Users\mario\OneDrive - Universidad de Salamanca\UNI\A3\SEGUNDO CUATRI\IPO\OuterSpace\OuterSpace\outerspace\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.outerspace.app-merged_res-13 C:\Users\mario\OneDrive - Universidad de Salamanca\UNI\A3\SEGUNDO CUATRI\IPO\OuterSpace\OuterSpace\outerspace\build\app\intermediates\merged_res\debug
+com.example.outerspace.app-packaged_res-14 C:\Users\mario\OneDrive - Universidad de Salamanca\UNI\A3\SEGUNDO CUATRI\IPO\OuterSpace\OuterSpace\outerspace\build\video_player_android\intermediates\packaged_res\debug

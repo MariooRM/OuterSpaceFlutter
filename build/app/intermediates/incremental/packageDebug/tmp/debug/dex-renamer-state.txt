@@ -1,0 +1,4 @@
+#Tue Jun 20 11:08:45 CEST 2023
+base.0=C\:\\Users\\mario\\OneDrive - Universidad de Salamanca\\UNI\\A3\\SEGUNDO CUATRI\\IPO\\OuterSpace\\OuterSpace\\outerspace\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
